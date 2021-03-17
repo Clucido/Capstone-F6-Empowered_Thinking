@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/C_Contributions/Scenes/Scene0(Dream).unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
